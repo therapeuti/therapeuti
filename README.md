@@ -1,4 +1,4 @@
-### 보건의료·바이오 도메인 이해를 바탕으로, ML/DL 모델링과 LLM 기반 서비스를 개발하는 AI·Python 풀스택 개발자입니다. 👋
+## 보건의료·바이오 도메인 이해를 바탕으로, ML/DL 모델링과 LLM 기반 서비스를 개발하는 AI·Python 풀스택 개발자입니다. 👋
 
 <!--
 **therapeuti/therapeuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
