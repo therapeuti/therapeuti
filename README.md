@@ -1,4 +1,4 @@
-## Hi there 👋
+## 보건의료·바이오 도메인 이해를 바탕으로, ML/DL 모델링과 LLM 기반 서비스를 개발하는 AI·Python 풀스택 개발자입니다. 👋
 
 <!--
 **therapeuti/therapeuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +50,4 @@ Here are some ideas to get you started:
 #### AI
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/ba트
