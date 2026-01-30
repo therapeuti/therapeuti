@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 - **Role**: 팀장, 풀스택/배포
 - **Tech Stack**: Python, HTML/CSS/JS, AWS, Docker, GitHub Actions, OpenAI, LangChain, PostgreSQL, ChromaDB
 - **GitHub**: [Link](https://github.com/MyPetsVoice/my-pets-voice)
+- **Presentation**: [Canva](https://www.canva.com/design/DAGyoXUG6Cs/JPJ_lyJR3btI12cnnQvFcw/edit)
+
 
 ### 🤝 MAJU (마주)
 > **자연어 기반 AI 매칭 알고리즘을 활용한 저소득·한부모 가정 학생 대상 교육/진로 멘토링 매칭 플랫폼**
