@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 - **Period**: 2025.08 - 2025.09
 - **Role**: 팀장, 풀스택/배포
 - **Tech Stack**: Python, HTML/CSS/JS, AWS, Docker, GitHub Actions, OpenAI, LangChain, PostgreSQL, ChromaDB
-- **GitHub**: [Link](https://github.com/MyPetsVoice/my-pets-voice)
-- **Presentation**: [Canva](https://www.canva.com/design/DAGyoXUG6Cs/A28iqe4f_JJJi76iSSWYrw/view?utm_content=DAGyoXUG6Cs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3835f036a9)
-- **Demo**: [Video](https://www.canva.com/design/DAGypn9KnQ0/4ulQMflkM-46E5poHdOb_g/watch?utm_content=DAGypn9KnQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd7ba2c6170)
+- **GitHub**: [My Pet's Voice 리포지토리](https://github.com/MyPetsVoice/my-pets-voice)
+- **Presentation**: [프로젝트 발표자료](https://www.canva.com/design/DAGyoXUG6Cs/A28iqe4f_JJJi76iSSWYrw/view?utm_content=DAGyoXUG6Cs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3835f036a9)
+- **Demo**: [프로젝트 시연영상](https://www.canva.com/design/DAGypn9KnQ0/4ulQMflkM-46E5poHdOb_g/watch?utm_content=DAGypn9KnQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd7ba2c6170)
 
 
 ### 🤝 MAJU (마주)
@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 - **Period**: 2024.05 - 2024.07
 - **Role**: PM, LLM 파인튜닝, 서비스 운영
 - **Tech Stack**: Naver Cloud, HyperClova X, GCP, Gemini
-- **Demo**: [Service Introduction](https://share.google/nsB86Bh7vNSqgKdFN)
+- **Demo**: [모바일 앱 서비스 소개 영상](https://share.google/nsB86Bh7vNSqgKdFN)
 
 <br>
 
