@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - **Tech Stack**: Python, HTML/CSS/JS, AWS, Docker, GitHub Actions, OpenAI, LangChain, PostgreSQL, ChromaDB
 - **GitHub**: [Link](https://github.com/MyPetsVoice/my-pets-voice)
 - **Presentation**: [Canva](https://www.canva.com/design/DAGyoXUG6Cs/A28iqe4f_JJJi76iSSWYrw/view?utm_content=DAGyoXUG6Cs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3835f036a9)
+- **Demo**: [Video](https://www.canva.com/design/DAGypn9KnQ0/4ulQMflkM-46E5poHdOb_g/watch?utm_content=DAGypn9KnQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd7ba2c6170)
 
 
 ### 🤝 MAJU (마주)
@@ -85,6 +86,14 @@ Here are some ideas to get you started:
 - **Role**: PM, AI/백엔드/배포
 - **Tech Stack**: Python, YOLO, FastAPI, GCP
 - **GitHub**: [Link](https://github.com/therapeuti/sushiplates-AI)
+
+### 🐤 AI 대화친구 앵쵸
+> **아동 대상 LLM 기반 음성 대화 서비스**
+
+- **Period**: 2024.05 - 2024.07
+- **Role**: PM, LLM 파인튜닝, 서비스 운영
+- **Tech Stack**: Naver Cloud, HyperClova X, GCP, Gemini
+- **Demo**: [Service Introduction](https://share.google/nsB86Bh7vNSqgKdFN)
 
 <br>
 
