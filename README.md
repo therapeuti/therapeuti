@@ -58,4 +58,42 @@ Here are some ideas to get you started:
 ---
 
 
-### 주요 프로젝트
+## Team Projects
+
+### 🐶 반려동물의 목소리가 들려 (MyPetsVoice)
+> **반려동물의 페르소나를 기반으로 한 LLM 대화형 반려동물 관리 서비스 및 RAG 기반 건강상담 챗봇**
+
+- **Period**: 2025.08 - 2025.09
+- **Role**: 팀장, 풀스택/배포
+- **Tech Stack**: Python, HTML/CSS/JS, AWS, Docker, GitHub Actions, OpenAI, LangChain, PostgreSQL, ChromaDB
+- **GitHub**: [Link](https://github.com/MyPetsVoice/my-pets-voice)
+
+### 🤝 MAJU (마주)
+> **자연어 기반 AI 매칭 알고리즘을 활용한 저소득·한부모 가정 학생 대상 교육/진로 멘토링 매칭 플랫폼**
+
+- **Period**: 2025.07 - 2025.08
+- **Role**: AI 백엔드 구축
+- **Tech Stack**: Python, Flask, LangChain, OpenAI, ClaudeCode
+- **GitHub**: [Link](https://github.com/MAJU-MENTORING) / [Backend Repo](https://github.com/MAJU-MENTORING/backend_python)
+
+### 🍣 AI 회전초밥 자동 계산 시스템
+> **회전초밥 접시를 촬영하면 자동 인식하여 결제금액을 계산하는 시스템**
+
+- **Period**: 2024.09 - 2024.10
+- **Role**: PM, AI/백엔드/배포
+- **Tech Stack**: Python, YOLO, FastAPI, GCP
+- **GitHub**: [Link](https://github.com/therapeuti/sushiplates-AI)
+
+<br>
+
+## Toy Projects
+
+### 🍽️ 테이블 오더 시스템 (바이브코딩)
+> **QR코드 기반으로 식당 주문 현황 관리 시스템**
+- **Tech Stack**: Python, Django, Docker, GitHub Actions
+- **GitHub**: [Link](https://github.com/therapeuti/tableorder)
+
+### 🏝️ 모동숲 섬 꾸미기 (바이브코딩)
+> **닌텐도 게임 “모여봐요 동물의 숲” 섬 지도 스크린샷을 배경으로 섬 꾸미기 계획을 세울 수 있는 웹 어플리케이션**
+- **Tech Stack**: React, Konva
+- **GitHub**: [Link](https://github.com/2in1-team39/team39-aws-hackathon)
