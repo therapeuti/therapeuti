@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - **Role**: 팀장, 풀스택/배포
 - **Tech Stack**: Python, HTML/CSS/JS, AWS, Docker, GitHub Actions, OpenAI, LangChain, PostgreSQL, ChromaDB
 - **GitHub**: [Link](https://github.com/MyPetsVoice/my-pets-voice)
-- **Presentation**: [Canva](https://www.canva.com/design/DAGyoXUG6Cs/JPJ_lyJR3btI12cnnQvFcw/edit)
+- **Presentation**: [Canva](https://www.canva.com/design/DAGyoXUG6Cs/A28iqe4f_JJJi76iSSWYrw/view?utm_content=DAGyoXUG6Cs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3835f036a9)
 
 
 ### 🤝 MAJU (마주)
